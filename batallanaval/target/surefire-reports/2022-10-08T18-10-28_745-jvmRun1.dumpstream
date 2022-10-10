@@ -1,0 +1,6 @@
+# Created at 2022-10-08T18:10:32.230
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '3,1,windows-1252,inicializa juego\0D\0A'.
+
+# Created at 2022-10-08T18:10:32.322
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '3,1,windows-1252,|  '.
+
